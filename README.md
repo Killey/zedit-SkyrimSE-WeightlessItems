@@ -1,5 +1,5 @@
 # zedit-SkyrimSE-WeightlessItems
-Forked from zedit-example-patcher: https://github.com/z-edit/zedit-example-patcher
+Copied from zedit-example-patcher: https://github.com/z-edit/zedit-example-patcher
 
 This script is intended to set the weight of certain items to 0.
 
